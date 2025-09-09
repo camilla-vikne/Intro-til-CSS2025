@@ -1,7 +1,31 @@
-main{
-    background-color: lightgreen;
-}
-header{
-    height: 100px;
+/* body header
+h1
+main
+h2 p img
+footer
+p */
+
+body{
+    background-color: lightsalmon; 
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    background-color: hsla(224, 72%, 30%, 0.404);
+}
+h2{
+    font-size: 30px;
+    color: darkgreen;
+}
+p{
+    font-family: "Sour Gummy", sans-serif;
+    font-size:18px;
+}
+img{
+    height: auto;
+    width: 300px;
+}
+footer{
+    background-color: lightyellow;
+    height: 50px;
 }
